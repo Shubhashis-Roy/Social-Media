@@ -1,4 +1,11 @@
-# Project Name: Social Media Website
+<div align="center">
+
+  <img src="https://images.pexels.com/photos/147413/twitter-facebook-together-exchange-of-information-147413.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="logo" width="400" height="auto" />
+
+  <h1>SOCIAL MEDIA WEBSITE</h1>
+
+</div>
+
 <hr>
 <h2>Description</h2>
 It's a Social Media Website, where you can <b>signup/login</b> using <b>gmail</b> and start posting any photo or writing somthing and than post after posting it can be <b>update</b> or <b>delete</b>. You can <b>like </b>or <b>dislike</b> on others post and also <b>search the post.</b> Also you can <b>search others account</b> and <b>following others</b> or <b> Unfollow</b>.

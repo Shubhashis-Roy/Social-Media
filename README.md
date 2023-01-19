@@ -26,12 +26,12 @@ and if one can click like by mistake on any post than he dislike it and the like
 <table>
       <tbody>
         <tr>
-          <th>express.js</th>
-           <th>node.js</th>
-           <th>bcrypt</th>
+          <th>Express.js</th>
+           <th>Node.js</th>
+           <th>Bcrypt</th>
         </tr>
           <tr>
-           <th>mongodb</th>
+           <th>Mongodb</th>
            <th>REST Api</th>
          </tr>
       </tbody>    

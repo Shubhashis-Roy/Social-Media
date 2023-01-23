@@ -29,7 +29,7 @@ app.use("/api/users", userRoute);
 app.use("/api/auth", authRoute);
 app.use("/api/posts", postRoute);
 
-
-app.listen(3000, () => {
-    console.log("sever start 3000");
+const PORT = process.env.PORT || 3000
+app.listen(PORT, () => {
+    console.log(`sever start ${PORT}`);
 })

@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://images.pexels.com/photos/147413/twitter-facebook-together-exchange-of-information-147413.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="logo" width="600" height="auto" />
+  <img src="https://outflowdesigns.com/wp-content/uploads/2021/07/image_01-Social-Media.jpg" alt="logo" width="600" height="auto" />
 
   <h1>SOCIAL MEDIA WEBSITE</h1>
 

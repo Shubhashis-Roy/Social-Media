@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://outflowdesigns.com/wp-content/uploads/2021/07/image_01-Social-Media.jpg" alt="logo" width="600" height="300" />
+  <img src="https://outflowdesigns.com/wp-content/uploads/2021/07/image_01-Social-Media.jpg" alt="logo" width="600" height="350" />
 
   <h1>SOCIAL MEDIA WEBSITE</h1>
 

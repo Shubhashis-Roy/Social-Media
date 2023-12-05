@@ -5,21 +5,20 @@
   <h1>SOCIAL MEDIA WEBAPP</h1>
 
 </div>
-
-<hr>
+ 
 <h2>Description</h2>
-It's a Social Media Rest Api, where you can <b>signup/login</b> using <b>gmail</b> and start posting any photo or writing somthing and than post after posting it can be <b>update</b> or <b>delete</b>. You can <b>like </b>or <b>dislike</b> on others post and also <b>search the post.</b> Also you can <b>search others account</b> and <b>following others</b> or <b> Unfollow</b>.
+It's a Social Media Rest API, where you can <b>signup/login</b> using <b>gmail</b> and start posting any photo or writing something and then post after posting it can be <b>update</b> or <b>delete</b>. You can <b>like </b>or <b>dislike</b> on others post and also <b>search the post.</b> Also you can <b>search others account</b> and <b>following others</b> or <b> Unfollow</b>.
 
   
 ### Concepts
-#### This website is build on three basic concepts
+#### This website is built on three basic concepts
 
-- Posts: The root concept of the website is any photos or any story has posts .
+- Posts: The root concept of the website is any photos or any story has posted.
 
-- Like or Dislike: One user can clicking Like below a post is a way to let people know that the user enjoy it.
-and if one can click like by mistake on any post than he dislike it and the like is withdraw on the post.
+- Like or Dislike: One user can click Like below a post is a way to let people know that the user enjoys it.
+and if one clicks like by mistake on any post then he dislikes it and the like is withdrawn from the post.
 
-- Follow and Unfollow: A user who can interacts with the other user, can be follow this user. And if any user is no longer to interacets with a perticular one who can already belong his following list he can unfollow him. 
+- Follow and Unfollow: A user who can interact with the other user can follow this user. If any user is no longer to interact with a particular one who already belongs to his following list he can unfollow him. 
 
 
 <h2>Technologies</h2>
@@ -79,7 +78,7 @@ and if one can click like by mistake on any post than he dislike it and the like
 - Postman
 - Vs code
 
-## How to setup locally and getting started to improve and add new features.
+## How to set up locally and getting started to improve and add new features.
 ### 1. Create a new directory, cd into it and run 'git init' .
 ### 2. Clone this repository
 ### 3. Create a .gitignore file add node-modules, .env .
